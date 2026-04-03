@@ -1,3 +1,4 @@
+```python
 import random
 import time
 
@@ -21,3 +22,4 @@ while True:
         water_pump(False)
 
     time.sleep(2)
+```
